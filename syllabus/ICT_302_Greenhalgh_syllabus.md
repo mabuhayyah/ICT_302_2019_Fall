@@ -109,7 +109,7 @@ This course is highly collaborative and flexible, and the "master" syllabus for 
 
 Minimum technical requirements for UK courses and suggested hardware, software, and internet connections are available at [ITS Student Hardware & Software Guidelines](http://www.uky.edu/its/student-hardware-software-guidelines).
 
-This class is highly focused and dependent on a number of Web technologies, and you are expected to bring a laptop or tablet to class that will permit you to fully participate in class activities.
+This class is highly focused and dependent on a number of Web technologies, and you are expected to bring a **laptop** or **tablet** to class that will permit you to fully participate in class activities.
 
 #### Technology Use in Class
 
